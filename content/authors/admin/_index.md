@@ -27,4 +27,4 @@ Dr. Y. Jiang is an Associate Professor (Tenured) in [Transport DTU](http://www.t
 
 He received his Ph.D. from the University of Hong Kong and specializes in applying operations research techniques to analysis, modelling, and optimising transportation systems. He has published more than 25 papers in the leading international journals. He has co-investigated projects funded by RGC (Hong Kong), NSF (China), and EPSRC (UK).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
