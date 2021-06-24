@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Associate Professor
-    company: DTU
-    company_url: ''
+    company: DTU Management
+    company_url: 'www.tnm.man.dtu.dk/'
     company_logo: org-gc
     location: Lyngby, Copenhagen
     date_start: '2021-01-01'
