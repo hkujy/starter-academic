@@ -2,7 +2,7 @@
 title: CTS 2021 Presentation
 
 event: CTS Conference
-# event_url: https://example.org
+event_url: https://example.org
 
 location: Harbin Institute of Technology
 # address:
@@ -13,7 +13,7 @@ location: Harbin Institute of Technology
 #   country: United States
 
 summary: Presentation on Integrated Transit Network Design
-# abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -40,7 +40,7 @@ image:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 # url_code: ""
-url_pdf: "uploads/resume.pdf"
+# url_pdf: "uploads/resume.pdf"
 # url_slides: ""
 # url_video: ""
 
