@@ -25,7 +25,8 @@ experience:
   - title: Associate Professor
     company: Transport Division, DTU Management
     company_url: 'www.tnm.man.dtu.dk/'
-    company_logo: org-gc
+    # company_logo: org-gc
+    company_logo: dtu
     location: Lyngby, Copenhagen
     date_start: '2021-01-01'
     date_end: ''
@@ -39,7 +40,8 @@ experience:
   - title: Assistant Professor
     company: Transport Division, DTU Management 
     company_url: 'www.tnm.man.dtu.dk/'
-    company_logo: org-x
+    # company_logo: org-x
+    company_logo: dtu
     location: Lyngby, Copenhagen
     date_start: '2016-01-01'
     date_end: '2020-12-31'
