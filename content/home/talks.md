@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 # title: 'Recent & Upcoming Talks'
-title: 'Upcoming Talks'
+title: 'Upcoming Event'
 subtitle:
 
 content:
