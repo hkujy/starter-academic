@@ -60,7 +60,7 @@ experience:
     company: LUMS
     company_url: 'www.eci.ox.ac.uk'
     # company_logo: org-x
-    company_logo: oxford
+    company_logo: lums
     location: Lyngby, Copenhagen
     date_start: '2016-01-01'
     date_end: '2020-12-31'
