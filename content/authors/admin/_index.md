@@ -1,10 +1,13 @@
 ---
 role: Associate Professor
-avatar_filename: 主页照片.jpg
+avatar_filename: avatar.jpg
 bio: "World Top 10 Authors in Transit Assignment "
 interests:
   - Public Transport
   - Transit/Traffic Assignment
+  - Network Design 
+  - Multimodal Mobility 
+  - Optimisation 
 social: []
 organizations:
   - name: Technical University of Denmark

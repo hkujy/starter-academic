@@ -51,7 +51,7 @@ experience:
     company: Environmental Change Institute (ECI), Oxford University
     company_url: 'www.eci.ox.ac.uk'
     # company_logo: org-x
-    company_logo: dtu
+    company_logo: oxford
     location: Lyngby, Copenhagen
     date_start: '2016-01-01'
     date_end: '2020-12-31'
