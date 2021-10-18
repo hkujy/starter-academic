@@ -1,5 +1,6 @@
 ---
 role: Associate Professor
+avatar_filename: 主页照片.jpg
 bio: "World Top 10 Authors in Transit Assignment "
 interests:
   - Public Transport
