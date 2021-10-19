@@ -28,7 +28,7 @@ experience:
     # company_logo: org-gc
     company_logo: dtu
     location: Lyngby, Copenhagen
-    date_start: '2021-01-01'
+    date_start: '2021-05-01'
     date_end: ''
     # description: |2-
     #     Responsibilities include:
@@ -43,8 +43,8 @@ experience:
     # company_logo: org-x
     company_logo: dtu
     location: Lyngby, Copenhagen
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2017-04-01'
+    date_end: '2021-04-30'
     # description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Network Infrastructure Analyst
@@ -53,8 +53,8 @@ experience:
     # company_logo: org-x
     company_logo: oxford
     location: Lyngby, Copenhagen
-    date_start: '2016-01-01'
-    date_end: '2017-12-31'
+    date_start: '2016-09-01'
+    date_end: '2017-03-31'
   
   - title: Lums
     company: LUMS
@@ -62,8 +62,8 @@ experience:
     # company_logo: org-x
     company_logo: lums
     location: Lyngby, Copenhagen
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2015-10-01'
+    date_end: '2016-08-31'
 
   - title: Hku
     company: HKU
@@ -71,8 +71,8 @@ experience:
     # company_logo: org-x
     company_logo: hku
     location: Lyngby, Copenhagen
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2014-10-01'
+    date_end: '2015-09-30'
   
 design:
   columns: '2'
