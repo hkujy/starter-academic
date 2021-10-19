@@ -39,7 +39,7 @@ experience:
         
   - title: Assistant Professor
     company: Transport Division, DTU Management 
-    company_url: 'www.tnm.man.dtu.dk/'
+    company_url: 'https://tnm.man.dtu.dk/'
     # company_logo: org-x
     company_logo: dtu
     location: Lyngby, Copenhagen
@@ -49,7 +49,7 @@ experience:
 
   - title: Network Infrastructure Analyst
     company: Environmental Change Institute (ECI), Oxford University
-    company_url: 'www.eci.ox.ac.uk'
+    company_url: 'https://www.eci.ox.ac.uk/'
     # company_logo: org-x
     company_logo: oxford
     location: Lyngby, Copenhagen
