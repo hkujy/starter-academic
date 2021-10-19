@@ -27,7 +27,7 @@ experience:
     company_url: 'https://tnm.man.dtu.dk/'
     # company_logo: org-gc
     company_logo: dtu
-    location: Lyngby, Copenhagen
+    location: Lyngby, Denmark
     date_start: '2021-05-01'
     date_end: ''
     # description: |2-
@@ -42,7 +42,7 @@ experience:
     company_url: 'https://tnm.man.dtu.dk/'
     # company_logo: org-x
     company_logo: dtu
-    location: Lyngby, Copenhagen
+    location: Lyngby, Denmark
     date_start: '2017-04-01'
     date_end: '2021-04-30'
     # description: Taught electronic engineering and researched semiconductor physics.
@@ -52,7 +52,7 @@ experience:
     company_url: 'https://www.eci.ox.ac.uk/'
     # company_logo: org-x
     company_logo: oxford
-    location: Lyngby, Copenhagen
+    location: Oxford, UK
     date_start: '2016-09-01'
     date_end: '2017-03-31'
   
@@ -61,7 +61,7 @@ experience:
     company_url: 'https://www.lancaster.ac.uk/'
     # company_logo: org-x
     company_logo: lums
-    location: Lyngby, Copenhagen
+    location: Lancaster, UK
     date_start: '2015-10-01'
     date_end: '2016-08-31'
 
@@ -70,7 +70,7 @@ experience:
     company_url: 'https://www.hku.hk/'
     # company_logo: org-x
     company_logo: hku
-    location: Lyngby, Copenhagen
+    location: Hong Kong, China
     date_start: '2014-10-01'
     date_end: '2015-09-30'
   
