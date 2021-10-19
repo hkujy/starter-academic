@@ -58,7 +58,7 @@ experience:
   
   - title: Lums
     company: LUMS
-    company_url: 'www.eci.ox.ac.uk'
+    company_url: 'https://www.lancaster.ac.uk/'
     # company_logo: org-x
     company_logo: lums
     location: Lyngby, Copenhagen
@@ -67,7 +67,7 @@ experience:
 
   - title: Hku
     company: HKU
-    company_url: 'www.eci.ox.ac.uk'
+    company_url: 'https://www.hku.hk/'
     # company_logo: org-x
     company_logo: hku
     location: Lyngby, Copenhagen
