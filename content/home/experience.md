@@ -56,8 +56,8 @@ experience:
     date_start: '2016-09-01'
     date_end: '2017-03-31'
   
-  - title: Lums
-    company: LUMS
+  - title: Senior Research Fellow
+    company: Lancaster University Management School (LUMS)
     company_url: 'https://www.lancaster.ac.uk/'
     # company_logo: org-x
     company_logo: lums
@@ -65,8 +65,8 @@ experience:
     date_start: '2015-10-01'
     date_end: '2016-08-31'
 
-  - title: Hku
-    company: HKU
+  - title: Postdoctoral Researcher
+    company: The University of Hong Kong
     company_url: 'https://www.hku.hk/'
     # company_logo: org-x
     company_logo: hku
