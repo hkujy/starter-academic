@@ -1,8 +1,8 @@
 ---
-title: "part b"
+title: "Incorporating personalization and bounded rationality into stochastic transit assignment model"
 authors:
 - admin
-- Szeto
+- "Ceder, A."
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
