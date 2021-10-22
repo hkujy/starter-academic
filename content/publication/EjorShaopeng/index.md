@@ -6,16 +6,15 @@ publication_types:
   - "2"
 authors:
   - Zhong, S.P
-  - {Jiang, Y.}
+  - Jiang, Y
   - Nielsen, O.A
 author_notes:
-  - "none"
+  - ""
   - "Corresponding Author"
-  - "non"
+  - ""
 summary: ""
 url_dataset: ""
 url_project: ""
-author_notes: []
 publication_short: ""
 url_source: ""
 url_video: ""
