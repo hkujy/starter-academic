@@ -22,8 +22,7 @@ publication: European Journal of Operational Research
 featured: false
 date: 2021-06-01T09:14:09.701Z
 url_slides: ""
-title: "Multi-Objective Road Pricing Considering Land Use Effects: A Bi-Level
-  Model and a-Conditional Lexicographic"
+title: "Lexicographic Multi-Objective Road Pricing Optimization Considering Land Use and Transportation Effects"
 tags:
   - OR
 categories: []
