@@ -1,11 +1,11 @@
 ---
 title: "Transit route and frequency design: Bi-level modeling and hybrid artificial bee colony algorithm approach"
 authors:
-- Szeto W.Y.
-- admin
+- Szeto W.Y
+- Jiang, Y
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Corresponding Author"
+- ""
 date: "2015-09-01T00:00:00Z"
 doi: ""
 

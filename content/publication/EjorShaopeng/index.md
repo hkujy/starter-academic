@@ -7,7 +7,7 @@ publication_types:
 authors:
   - Zhong, S.P
   - Jiang, Y
-  - "Nielsen, O.A."
+  - Nielsen, O.A.
 summary: ""
 url_dataset: ""
 url_project: ""
