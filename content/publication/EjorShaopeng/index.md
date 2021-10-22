@@ -5,8 +5,8 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Zhong, S.P.
-  - Jiang, Y.
+  - Zhong, S.P
+  - Jiang, Y
   - Nielsen, O.A
 summary: ""
 url_dataset: ""
