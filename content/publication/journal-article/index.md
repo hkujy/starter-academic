@@ -28,7 +28,8 @@ abstract:
 summary: 
 
 tags:
-- Public Transport, Network Design
+- Public Transport
+- Network Design
 featured: false
 
 # links:
