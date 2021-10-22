@@ -1,8 +1,8 @@
 ---
-title: "part b"
+title: "Incorporating personalization and bounded rationality into stochastic transit assignment model"
 authors:
 - admin
-- Szeto
+- Ceder, A.
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -19,16 +19,16 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Transportation Research Part C*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: 
+The use of smartphone applications (apps) to acquire real-time information for trip planning has become and progressively continues becoming a more instinctive behavior among public transport (PT) users. Thus, it becomes an integral part of the design and management of PT systems, but corresponding transit assignment models for improving the prediction of passenger ridership have yet to be developed. This work proposes a novel stochastic transit assignment model that predicts passenger ridership. Two new features are incorporated into a transit assignment model, namely, personalization and bounded rationality. Personalization refers to a personalized route-ranking methodology so that the app recommends paths with respect to a traveler’s preference considering various PT attributes. Bounded rationality is modeled over three route-choice strategies representing different levels of cognitive effort exercised by a traveler in selecting a path from the set of paths recommended by the app. The transit assignment model is formulated as a fixed-point problem. Because the mapping function of the fixed-point formulation is not necessarily continuous, the model constructs an approximated fixed point existing under certain measures of discontinuity. The method of successive averages (MSA) is applied to solve the problem. Numerical studies are conducted to demonstrate the properties of the new transit assignment model, the effect of demand on the path choice probability, and the effect of passengers’ heterogeneity on the convergence of the algorithm. The results reveal that, with a personalized path recommendation, passenger’s preferences could stabilize the differences of path choice probability when adopting route-choice strategies relying on the path order. In addition, although the MSA may not always converge and oscillate, the fluctuation is below the derived measure of discontinuity, indicating that an approximated fixed point can be found.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
-- Source Themes
+- Public Transport 
 featured: false
 
 # links:
