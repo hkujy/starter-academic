@@ -1,8 +1,8 @@
 ---
-title: "An example journal article"
+title: "Transit route and frequency design: Bi-level modeling and hybrid artificial bee colony algorithm approach"
 authors:
+- Szeto W.Y.
 - admin
-- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
