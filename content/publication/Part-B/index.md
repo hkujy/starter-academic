@@ -2,7 +2,7 @@
 title: "Incorporating personalization and bounded rationality into stochastic transit assignment model"
 authors:
 - admin
-- Ceder, A.
+- Ceder Avi
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
