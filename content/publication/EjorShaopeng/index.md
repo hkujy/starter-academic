@@ -6,7 +6,7 @@ publication_types:
   - "2"
 authors:
   - Zhong, S.P.
-  - admin
+  - Jiang, Y.
   - Nielsen, O.A
 summary: ""
 url_dataset: ""
