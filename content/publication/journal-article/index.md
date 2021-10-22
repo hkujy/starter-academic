@@ -4,7 +4,7 @@ authors:
 - Szeto W.Y
 - Jiang, Y
 author_notes:
-- "Corresponding Author"
+- ""
 - ""
 date: "2015-09-01T00:00:00Z"
 doi: ""
