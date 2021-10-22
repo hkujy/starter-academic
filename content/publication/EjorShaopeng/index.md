@@ -6,7 +6,7 @@ publication_types:
   - "2"
 authors:
   - Zhong, S.P
-  - Jiang, Y
+  - {Jiang, Y.}
   - Nielsen, O.A
 author_notes:
   - "none"
