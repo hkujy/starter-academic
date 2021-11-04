@@ -1,7 +1,6 @@
 ---
-title: 2021 China Trip
-
-event: Research Stay in China
+title: Research visit and stay in China
+event: Research visit and stay in China
 # event_url: https://example.org
 
 # location: Harbin Institute of Technology
@@ -64,10 +63,11 @@ projects:
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}} -->
 
-Tentative Itineray:
+Tentative Itinerary:
 
 - **Beijing Jiaotong University**
 - **Dalian Technology University** 
 - **Hunan University** 
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+ 
+<!-- 
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. -->
