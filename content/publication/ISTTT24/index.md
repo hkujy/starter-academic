@@ -27,11 +27,11 @@ abstract:
 
 # Summary. An optional shortened abstract.
 summary: 
-# 1. A novel stochastic transit assignment model that predicts passenger ridership.
-# 2. Incorporating personalization and bounded rationality.
-# 3. Personalized route-ranking methodology with app recommendations.
-# 4. Bounded rationality is modeled over three route-choice strategies.
-# 5. Results show passenger’s preferences stabilization for route-choice strategies.
+1. A novel stochastic transit assignment model that predicts passenger ridership.
+2. Incorporating personalization and bounded rationality.
+3. Personalized route-ranking methodology with app recommendations.
+4. Bounded rationality is modeled over three route-choice strategies.
+5. Results show passenger’s preferences stabilization for route-choice strategies.
 
 tags:
 - Public Transport
