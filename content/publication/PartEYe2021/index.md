@@ -1,11 +1,11 @@
 ---
 title: "Joint optimisation of transfer location and capacity for a capacitated multimodal transport network with elastic demand: a bi-level programming model and paradoxes"
 authors:
-- Jiao Y.
+- Jiao, Y
 - Jiang, Y
-- Chen J.
-- Liu Z.Y.
-- Guo R.Z.
+- Chen, J
+- Liu, Z.Y
+- Guo, R.Z
 author_notes:
 - ""
 - ""
