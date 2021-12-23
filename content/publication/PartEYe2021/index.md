@@ -25,24 +25,8 @@ publication_types: ["2"]
 publication: "*Transportation Research Part E*"
 publication_short: ""
 
-abstract:
-With the growing attention toward developing a multimodal transport system to enhance urban 
-mobility, there is an increasing need to construct new infrastructures, rebuild or expand the 
-existing ones, to accommodate the current and newly generated travel demand. Therefore, this 
-study develops a bi-level model that simultaneously determines the location and capacity of the 
-transfer infrastructure to be built considering the elastic demand in a multimodal transport 
-network. The upper-level problem is formulated as a mixed-integer linear programming problem, 
-whereas the lower-level problem is a combined trip distribution/modal split/assignment model 
-that depicts both the destination and route choices of travellers via a multinomial logit model. 
-Numerical studies are conducted to demonstrate the occurrence of two Braess-like paradox 
-phenomena in a multimodal transport network. The first one states that under fixed demand, 
-constructing new parking spaces to provide the usage of park-and-ride services could deteriorate 
-the system performance measured by the total passengers’ travel time, while the second one 
-reveals that under elastic demand, increasing the parking capacity for park-and-ride services to 
-promote its usage may fail, which would be represented by the decline in their modal share. 
-Meanwhile, a numerical example also suggests that constructing transfer infrastructures at 
-distributed stations outperforms building a large transfer centre in terms of attracting travellers 
-using sustainable transit modes.
+abstract: With the growing attention toward developing a multimodal transport system to enhance urban mobility, there is an increasing need to construct new infrastructures, rebuild or expand the existing ones, to accommodate the current and newly generated travel demand. Therefore, this study develops a bi-level model that simultaneously determines the location and capacity of the transfer infrastructure to be built considering the elastic demand in a multimodal transport network. The upper-level problem is formulated as a mixed-integer linear programming problem, whereas the lower-level problem is a combined trip distribution/modal split/assignment model that depicts both the destination and route choices of travellers via a multinomial logit model.  Numerical studies are conducted to demonstrate the occurrence of two Braess-like paradox phenomena in a multimodal transport network. The first one states that under fixed demand, constructing new parking spaces to provide the usage of park-and-ride services could deteriorate the system performance measured by the total passengers’ travel time, while the second one reveals that under elastic demand, increasing the parking capacity for park-and-ride services to promote its usage may fail, which would be represented by the decline in their modal share.  Meanwhile, a numerical example also suggests that constructing transfer infrastructures at distributed stations outperforms building a large transfer centre in terms of attracting travellers using sustainable transit modes.
+
 # Summary. An optional shortened abstract.
 summary: 
 
