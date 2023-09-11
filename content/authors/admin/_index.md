@@ -5,8 +5,10 @@ avatar_filename: avatar.jpg
 interests:
   - Public Transport
   - Transit/Traffic Assignment
+  - Integrated Transporting Passengers and Goods
   - Network Design 
   - Multimodal Mobility 
+  - Crowdsourced Delivery
   - Optimisation 
 social: []
 organizations:
@@ -27,8 +29,8 @@ highlight_name: false
 title: Jiang Yu (姜宇)
 email: yujiang@lancaster.ac.uk;yujiang@dtu.dk
 ---
-Dr. Y. Jiang is the International Associate Professor at Lancaster University Management School (LUMS), Lancaster University, the United Kingdom, with a jiont appointment at the Department of Technology, Management and Economics, Technical University of Demark. Prior to this, he worked in the Oxford University, LUMS, and Hong Kong University. 
+Dr. Y. Jiang is the International Associate Professor at Lancaster University Management School (LUMS), Lancaster University, the United Kingdom, with a jiont appointment at the Department of Technology, Management and Economics, Technical University of Demark. Prior to this, he worked at the Oxford University, LUMS, and Hong Kong University. 
 
-He specializes in applying operations research techniques to analysis, modelling, and optimising transportation systems. He has authored over 80 articles in the leading journals, including Transportation Research Part A/B/C/E, European Journal of Operational Research, Transportation Science, etc. His recent first-author work has been invited for the PODIUM presentation at International Symposium on Transportation and Traffic Theory (ISTTT). He is the recipient of the Independent Research Fund. He has supervised PhDs to earn the best student paper awards at prestigious international conferences.
+He specialises in applying operations research techniques to analysis, modelling, and optimising transportation systems. He has authored over 80 articles in the leading journals, including Transportation Research Part A/B/C/E, European Journal of Operational Research, Transportation Science, etc. His recent first-author work has been invited for the PODIUM presentation at International Symposium on Transportation and Traffic Theory (ISTTT). He is the recipient of the Independent Research Fund. He has supervised PhDs to earn the best student paper awards at prestigious international conferences.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
