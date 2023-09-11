@@ -1,7 +1,7 @@
 ---
 role: Associate Professor
 avatar_filename: avatar.jpg
-bio: "World Top 10 Authors in Transit Assignment "
+# bio: "World Top 10 Authors in Transit Assignment "
 interests:
   - Public Transport
   - Transit/Traffic Assignment
@@ -25,10 +25,10 @@ education:
 superuser: true
 highlight_name: false
 title: Jiang Yu (姜宇)
-email: yujiang@dtu.dk
+email: yujiang@lancaster.ac.uk;yujiang@dtu.dk
 ---
-Dr. Y. Jiang is an Associate Professor (Tenured) in [Transport DTU](http://www.transport.dtu.dk/english). Prior to this, he worked in the Oxford University and [Lancaster University Management School (LUMS)](https://www.investopedia.com/terms/l/lancaster-university-management-school.asp). 
+Dr. Y. Jiang is the International Associate Professor at Lancaster University Management School (LUMS), Lancaster University, the United Kingdom, with a jiont appointment at the Department of Technology, Management and Economics, Technical University of Demark. Prior to this, he worked in the Oxford University, LUMS, and Hong Kong University. 
 
-He received his Ph.D. from the University of Hong Kong and specializes in applying operations research techniques to analysis, modelling, and optimising transportation systems. He has published more than 25 papers in the leading international journals. He has co-investigated projects funded by RGC (Hong Kong), NSF (China), and EPSRC (UK).
+He specializes in applying operations research techniques to analysis, modelling, and optimising transportation systems. He has authored over 80 articles in the leading journals, including Transportation Research Part A/B/C/E, European Journal of Operational Research, Transportation Science, etc. His recent first-author work has been invited for the PODIUM presentation at International Symposium on Transportation and Traffic Theory (ISTTT). He is the recipient of the Independent Research Fund. He has supervised PhDs to earn the best student paper awards at prestigious international conferences.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
