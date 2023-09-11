@@ -10,8 +10,7 @@ interests:
   - Optimisation 
 social: []
 organizations:
-  - name: Lancaster University Management School (LUMS)
-  - name: Technical University of Denmark
+  - name: Lancaster University Management School (LUMS) & Technical University of Denmark
 education:
   courses:
     - course: "PHD in Civil Engineering "
