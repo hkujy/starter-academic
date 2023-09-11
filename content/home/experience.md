@@ -23,6 +23,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Associate Professor
+    company: Lancaster University Management School, Lancaster University
+    company_url: 'https://www.lancaster.ac.uk/lums/'
+    # company_logo: org-gc
+    company_logo: lums
+    location: Lancaster, United Kingdom
+    date_start: '2023-01-01'
+    date_end: ''
+ 
+  - title: Associate Professor
     company: Transport Division, DTU Management
     company_url: 'https://tnm.man.dtu.dk/'
     # company_logo: org-gc
@@ -52,7 +61,7 @@ experience:
     company_url: 'https://www.eci.ox.ac.uk/'
     # company_logo: org-x
     company_logo: oxford
-    location: Oxford, UK
+    location: Oxford, United Kingdom
     date_start: '2016-09-01'
     date_end: '2017-03-31'
   
@@ -61,7 +70,7 @@ experience:
     company_url: 'https://www.lancaster.ac.uk/'
     # company_logo: org-x
     company_logo: lums
-    location: Lancaster, UK
+    location: Lancaster, United Kingdom
     date_start: '2015-10-01'
     date_end: '2016-08-31'
 
